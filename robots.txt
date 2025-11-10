@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nazafa-360.vercel.app/sitemap.xml
